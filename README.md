@@ -1,6 +1,6 @@
 # Rock-Mapping-CPS-Challenge
 # Setup :
---> Setup the simulation environment by cloning the given git repository (link https://github.com/Open-UAV/cps_challenge_2020)
+--> Setup the simulation environment by cloning the given git repository [link] (https://github.com/Open-UAV/cps_challenge_2020)
 
 --> Open the terminal and run the simulation world using the command 'roslaunch cps_challenge_2020 phase-1.launch'
 
