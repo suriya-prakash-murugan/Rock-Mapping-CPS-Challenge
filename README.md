@@ -1,3 +1,4 @@
+theme: minima
 # Rock-Mapping-CPS-Challenge
 # Setup :
 --> Setup the simulation environment by cloning the given git repository (link https://github.com/Open-UAV/cps_challenge_2020)
